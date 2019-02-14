@@ -1,0 +1,3 @@
+rootProject.name = 'exe01'
+
+include ':app'
